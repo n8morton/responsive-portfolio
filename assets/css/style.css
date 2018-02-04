@@ -1,0 +1,245 @@
+
+/* styles for all three pages */
+
+
+#div1{
+    background-color: white;
+    position: relative;
+    top: -22px;
+    height: 95px;
+    border-bottom: 1px solid #888;
+}
+
+header{
+    background-color: teal;
+    color: white;
+    padding: 15px 35px 1px 35px;
+    width: 177px;
+    position: relative;
+    left: 100px;
+    top: 0px;
+}
+
+nav{
+    position: absolute;
+    top: 22px;
+    left: 921px;
+    width: 342px;
+    height: 73px;
+    background-color: white;
+    border-bottom: 1px solid #888;
+}
+
+.nav-links{
+    text-decoration: none;
+    font-weight: bold;
+    color: #666;
+    padding-right: 12px;
+    padding-left: 10px;
+    position: relative;
+    top: 27px;
+}
+
+#about-link{
+    border-right: 1px solid #cac9c9;
+}
+
+#portfolio-link{
+    border-right: 1px solid #cac9c9;
+}
+
+body{
+    background-image: url("../images/background.jpg");
+    background-color: #cccccc;
+    
+    margin: 0;
+    width: 932px;
+}
+
+
+#connect h2{
+    border-bottom: 1px solid #888;
+    color: teal;
+}
+
+.social-media{
+    width: 64px;
+    height: 64px;
+    position: relative;
+    top: 9px    
+}
+
+footer{
+    background-color: #666;
+    height: 50px;
+    width: 1263px;
+    border-top: 10px solid teal;
+    color: lightgray;
+    text-align: center;
+    padding-top: 30px;
+}
+
+/* styles for about me section */
+
+#div2a{
+    background-color: white;
+    width: 731px;
+    height: 455px;
+    padding: 15px 20px 25px 30px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    border: 1px solid #888;
+}
+
+#div2a h1{
+    font-size: 2em;
+    color: teal;
+    border-bottom: 1px solid #888;
+    padding-bottom: 10px;
+}
+
+#nate-pic{
+    float: left;
+}
+
+#about-me{
+    position: relative;
+    left: 15px;
+    padding: 0px 20px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888;
+    line-height: 1.75;
+}
+
+.connecta{
+    background-color: white;
+    width: 200px;
+    padding: 5px 20px 39px 20px;
+    position: relative;
+    left: 913px;
+    top: -477px;
+    border: 1px solid #888;
+}
+
+/* styles for portfolio section  */
+
+#div2p{
+    background-color: white;
+    width: 731px;
+    height: 900px;
+    padding: 15px 20px 25px 30px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    border: 1px solid #888;
+}
+
+#div2p h1{
+    font-size: 2em;
+    color: teal;
+    border-bottom: 1px solid #888;
+    padding-bottom: 10px;
+}
+
+.portfolio-images-l{
+    padding-bottom: 30px;
+}
+
+.portfolio-images-r{
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.port{
+    background-color: teal;
+    width: 350px;
+    height:30px; 
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20pt
+}
+
+#port1{
+    position: relative;
+    bottom: 698px; 
+}
+
+#port2{
+    position: relative;
+    bottom: 775px; 
+    left: 379px;
+}
+
+#port3{
+    position: relative;
+    bottom: 568px; 
+}
+
+#port4{
+    position: relative;
+    bottom: 644px;
+    left: 379px;
+}
+
+#port5{
+    position: relative;
+    bottom: 438px; 
+}
+
+#porttest{
+    position: relative;
+
+}
+
+p{
+    margin:0;
+    padding:0;
+}
+
+
+#porttest p{
+    position: absolute;
+    bottom: 0;
+}
+/* styles for contact section */
+
+#div2c{
+    background-color: white;
+    width: 731px;
+    height: 455px;
+    padding: 15px 20px 25px 30px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    border: 1px solid #888;
+}
+
+#div2c h1{
+    font-size: 2em;
+    color: teal;
+    border-bottom: 1px solid #888;
+    padding-bottom: 10px;
+}
+
+.connectp{
+    background-color: white;
+    width: 200px;
+    padding: 5px 20px 39px 20px;
+    position: relative;
+    left: 913px;
+    top: -922px;
+    border: 1px solid #888;
+}
+
+.connectc{
+    background-color: white;
+    width: 200px;
+    padding: 5px 20px 39px 20px;
+    position: relative;
+    left: 913px;
+    top: -477px;
+    border: 1px solid #888;
+}
